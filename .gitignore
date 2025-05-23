@@ -64,3 +64,8 @@ nb-configuration.xml
 ########
 node_modules
 .env
+
+########
+# executables
+########
+*.exe
